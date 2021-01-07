@@ -6,7 +6,7 @@ Prototype 1:
 
 Year coded: May, 2020
 
-Language used: python
+Language used: Python
 
 Features of the prototype1:
 
