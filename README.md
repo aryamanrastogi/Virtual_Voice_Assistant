@@ -1,4 +1,4 @@
-Virtual Voice Assistant Prototype 1
+# Virtual Voice Assistant Prototype 1
 
 Virtual Voice Assistant is an application that would enable the user to operate their computer with their voice. The aim of this is to enable the full use of the operating system just by using voice. Thus, enabling people with disabilities to fully operate their computer.
 
